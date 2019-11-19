@@ -1,0 +1,6 @@
+C:\Users\Student\source\repos\Mod6Lab_CreateMyOwn\Mod6Lab_CreateMyOwn\bin\Debug\Mod6Lab_CreateMyOwn.exe.config
+C:\Users\Student\source\repos\Mod6Lab_CreateMyOwn\Mod6Lab_CreateMyOwn\bin\Debug\Mod6Lab_CreateMyOwn.exe
+C:\Users\Student\source\repos\Mod6Lab_CreateMyOwn\Mod6Lab_CreateMyOwn\bin\Debug\Mod6Lab_CreateMyOwn.pdb
+C:\Users\Student\source\repos\Mod6Lab_CreateMyOwn\Mod6Lab_CreateMyOwn\obj\Debug\Mod6Lab_CreateMyOwn.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\Mod6Lab_CreateMyOwn\Mod6Lab_CreateMyOwn\obj\Debug\Mod6Lab_CreateMyOwn.exe
+C:\Users\Student\source\repos\Mod6Lab_CreateMyOwn\Mod6Lab_CreateMyOwn\obj\Debug\Mod6Lab_CreateMyOwn.pdb
